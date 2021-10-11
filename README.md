@@ -3,7 +3,7 @@
 ## Overview
 
 In this project a reusable and accessible accordion component is created. This image is the source of inspiration for the design
-![Source of Inspiration for the design](https://github.com/[csoumya14]/[Accordion-Challenge-JS]/images/[master]/accordion.png?raw=true)
+![Source of Inspiration for the design](https://github.com/[csoumya14]/[Accordion-Challenge-JS]/blob/images/accordion.png?raw=true)
 ## Features
 
 - The component accepts other components.
