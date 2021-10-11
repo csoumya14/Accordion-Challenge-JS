@@ -1,9 +1,12 @@
 # Accordion-Challenge Using Javascript
 
 ## Overview
+Created a re-usabe and accessible accordion component 
 
-
+## Source of Inspiration for the design
 ![Source of Inspiration for the design](../master/images/accordion.png)
+
+## Final Result
 ![Final Result](../master/images/Result.png)
 
 ## Features
