@@ -2,7 +2,8 @@
 
 ## Overview
 
-In this project a reusable and accessible accordion component is created.
+In this project a reusable and accessible accordion component is created. This image is the source of inspiration for the design
+[(https://raw.githubusercontent.com/csoumya14/csoumya14/master/images/accordion.png)](Twitter link here)
 
 ## Features
 
