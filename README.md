@@ -2,8 +2,9 @@
 
 ## Overview
 
-In this project a reusable and accessible accordion component is created. 
+
 ![Source of Inspiration for the design](../master/images/accordion.png)
+![Final Result](../master/images/Result.png)
 
 ## Features
 
