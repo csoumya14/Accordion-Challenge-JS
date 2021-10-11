@@ -3,8 +3,9 @@
 ## Overview
 
 In this project a reusable and accessible accordion component is created. 
-![Source of Inspiration for the design](../main/images/accordion.png)
+![Source of Inspiration for the design](../master/images/accordion.png)
 
+## Features
 
 - The component accepts other components.
 - One can open and close the titles listed in the accordion.
